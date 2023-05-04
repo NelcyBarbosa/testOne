@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 200px;
+    overflow: hidden;
+    color: aqua;
+    font-family: sans-serif;
+    font-weight: 900;
+}
